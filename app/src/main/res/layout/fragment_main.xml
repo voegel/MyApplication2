@@ -32,4 +32,5 @@
         android:layout_alignRight="@+id/textView"
         android:layout_alignEnd="@+id/textView"
         android:layout_marginRight="32dp" />
+    
 </RelativeLayout>
